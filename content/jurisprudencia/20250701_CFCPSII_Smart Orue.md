@@ -1,3 +1,4 @@
+---
 title: "Smart, Jaime Lamont y otro s/ recurso de casación"
 date: "2025-07-01"
 author: "Sala II de la Cámara Federal de Casación Penal"
