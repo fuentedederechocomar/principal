@@ -92,3 +92,62 @@ El tribunal, especialmente a través del voto de Slokar, hizo un amplio recordat
 Por mayoría, la **Sala II de la Cámara Federal de Casación Penal** rechazó el recurso de casación interpuesto por la defensa oficial en favor de **Jaime Lamont Smart** y **Juan Humberto Keller**, confirmando así sus **condenas a prisión perpetua**.
 
 Además, el tribunal exhortó al Tribunal Oral en lo Criminal Federal N°1 de La Plata a tomar medidas para la **preservación, digitalización, resguardo y acceso eficaz** de todo el material probatorio del caso.
+*A continuación, se detallan los puntos más relevantes:*
+
+### • Calificación de los Hechos como Crímenes de Lesa Humanidad y en "Contexto de Genocidio":
+
+* **Reafirmación de Doctrina:** La sentencia del Tribunal Oral en lo Criminal Federal N°1 de La Plata, que es objeto de recurso, declaró por unanimidad que los hechos son constitutivos de **crímenes de lesa humanidad** y, por mayoría, que fueron cometidos en el **"marco del genocidio perpetrado en la República Argentina entre los años 1976 y 1983"**. La Cámara ratifica esta calificación de **crímenes de lesa humanidad**, en consonancia con la doctrina de la Corte Suprema en **"Arancibia Clavel"**, que considera que delitos como el genocidio, la tortura, la desaparición forzada de personas y el homicidio con fines de persecución política pueden ser considerados crímenes contra la humanidad por atentar contra el **derecho de gentes** (Art. 118 de la Constitución Nacional).
+* **Consolidación del Ius Cogens:** Se subraya que la Constitución Nacional de 1853 ya reconocía la supremacía del derecho de gentes, incorporándolo directamente, lo que implicaba el deber de su aplicación por los tribunales respecto a crímenes aberrantes. Este derecho de gentes, conocido actualmente como **ius cogens**, es la más alta fuente del derecho internacional, se impone a los estados, prohíbe los crímenes contra la humanidad y debe ser aplicado por los tribunales internos independientemente de su aceptación expresa.
+* **Debate sobre la Calificación de "Genocidio":** Si bien el tribunal oral y la mayoría de los jueces de la Cámara (Slokar y Ledesma) validan la referencia al **"contexto de genocidio"**, existe una discrepancia en la Sala II sobre la calificación jurídica directa como genocidio.
+    * El juez **Guillermo J. Yacobucci** argumenta que la locución **"contexto de genocidio"** carece de contenido jurídico y normativo relevante, ya que el genocidio es un **"crimen"**, no un **"contexto"**. Para él, el genocidio se distingue por una **"ultra-intencionalidad"** (dolus specialis) de exterminar a grupos protegidos de forma taxativa, y las víctimas del terrorismo de Estado en Argentina fueron perseguidas por su ideología política, no por su pertenencia a un grupo nacional.
+    * El juez **Alejandro W. Slokar** sostiene, en cambio, que los hechos en juzgamiento **"resultan constitutivos del crimen de 'genocidio' en los términos convencionales"**, al ser una política de exterminio focalizada en un grupo nacional particular para la reorganización de la sociedad.
+    * La jueza **Angela E. Ledesma** adhiere en lo sustancial a la calificación de los hechos como crímenes de lesa humanidad en el **"contexto de genocidio"**, señalando que la falta de fundamentación de la defensa en este punto impide su procedencia.
+
+---
+
+### • Imprescriptibilidad de los Crímenes Juzgados:
+
+* **Reafirmación de Precedente Consolidado:** Se reitera la **imprescriptibilidad** de los delitos de lesa humanidad, conforme a la doctrina de la Corte Suprema en **"Arancibia Clavel"** y posteriores fallos. Se enfatiza que la Convención sobre la Imprescriptibilidad de 1968 solo **"reafirma principios y normas de derecho internacional preexistentes"** (**ius cogens**), lo que permite su aplicación a hechos anteriores a su entrada en vigor sin violar el principio de irretroactividad de la ley penal.
+* **Obligación Inderogable:** La presencia de un **"sistema de derecho común e indisponible para todos los estados"** implica una **"obligación de investigación y sanción"** imprescriptible e inderogable.
+
+---
+
+### • Principio Ne bis in idem (Doble Juzgamiento):
+
+* **Estándar para su Aplicación:** Se rechaza el planteo de la defensa de **Jaime Lamont Smart** por violación al principio **ne bis in idem**. La razón es que la garantía de prohibición de doble juzgamiento exige una **"triple identidad de causa, sujeto y objeto"**, la cual no se verifica en este caso. Aunque los hechos ocurrieron en el mismo contexto histórico, se trata de **"diferentes acusaciones endilgadas al imputado por distintos acontecimientos"** con diferentes víctimas, juzgados en distintos procesos. La mera alegación de un **"contexto de genocidio"** no es suficiente para demostrar la identidad fáctica requerida.
+
+---
+
+### • Valoración de la Prueba y Responsabilidad Penal de los Acusados:
+
+* **Estándar de la Sana Crítica y Prueba Testimonial:** La sentencia reafirma la importancia de la **sana crítica** como estándar para la valoración integral y global de la prueba. En casos de crímenes de lesa humanidad, debido a la naturaleza clandestina y la destrucción deliberada de pruebas, la **prueba testimonial** adquiere un **"valor singular"** y se **"privilegia"**. Los testigos, incluso familiares o víctimas, son considerados **"necesarios"**.
+* **Responsabilidad de Jaime Lamont Smart (Funcionario Civil):** La Cámara Federal de Casación Penal, por mayoría, rechaza el recurso de casación de la defensa y mantiene la condena de **Jaime Lamont Smart a prisión perpetua**.
+    * El voto mayoritario (Jueces Slokar y Ledesma) sostiene que la responsabilidad de Smart, como **Ministro de Gobierno**, fue central y constitutiva en el **"engranaje represivo"**. Su rol se desplegó desde su función, permitiendo, mediante el aporte de medios humanos y materiales, los operativos ilegales.
+    * Se argumenta que Smart asumió voluntariamente sus funciones con conocimiento de la ilegalidad del gobierno y la tarea represiva encomendada. Se resalta que su **"responsabilidad no disminuye cuanto más uno se aleja de la realización del crimen, sino que aumenta"** en el contexto de **"macro-criminalidad"**.
+    * La **coautoría mediata** se fundamenta en su **"dominio del hecho"** a través de la administración y distribución de recursos económicos, materiales y humanos puestos a disposición del aparato represivo, así como su capacidad funcional para articular la estructura policial para fines criminales y su facultad para hacer cesar los ilícitos.
+    * El incremento de **691 agentes de seguridad**, autorizado por Smart, se cita como una manifestación concreta de su aporte funcional y consciente al sistema de criminalidad estatal. La integración del Ministerio de Gobierno en la **"comunidad informativa"** también es un elemento clave.
+    * Esta decisión reafirma la tendencia de responsabilizar a actores civiles que, desde roles de gobierno, contribuyeron a la implementación del plan sistemático de represión.
+* **Responsabilidad de Juan Humberto Keller (Agente Policial):** La Cámara Federal de Casación Penal, por **unanimidad**, rechaza el recurso de casación de la defensa y mantiene la condena de **Juan Humberto Keller**.
+    * Se considera que su responsabilidad como coautor material está **"debidamente acreditada"** por las pruebas.
+    * Se destaca su participación activa en el operativo, incluyendo el rodeo de la finca para evitar fugas, el robo de pertenencias, y su presencia en el centro clandestino de detención. Su justificación de creer en la legalidad del operativo es desestimada por las múltiples ilegalidades probadas, como la falta de orden judicial, el uso de **"áreas libres"** y la incautación de bienes como **"botín de guerra"**.
+
+---
+
+### • Rechazo del Planteo de Inconstitucionalidad del Art. 19 inc. 4° del Código Penal:
+
+* **Reafirmación del Principio de Leal Acatamiento:** Se rechaza la solicitud de declaración de inconstitucionalidad del artículo 19, inciso 4° del Código Penal (relativo a la **suspensión de beneficios previsionales**). Los jueces se remiten a la doctrina de la Corte Suprema de Justicia de la Nación (**"Menéndez"** y **"González Castillo"**), que exige un **"agravio actual y concreto"** y no meras reediciones de argumentos para declarar la inconstitucionalidad de una norma.
+
+---
+
+### • Estándar Judicial sobre Preservación de Prueba y Memoria Histórica (Innovación / Exhortación):
+
+* **Nuevo Mandato Judicial:** Los jueces Slokar y Ledesma (cuyos votos prevalecen en este punto) proponen y la resolución final de la Cámara exhorta al Tribunal Oral a **"arbitrar los medios necesarios con el objeto de preservar la totalidad del material probatorio"**. Esto incluye su digitalización, resguardo, acceso eficaz, reutilización y difusión, estableciendo criterios protocolizados para su inventario, guarda, custodia y publicidad.
+* 
+* **Fundamento en Obligaciones Internacionales:** Esta exhortación se basa en la **"ineludible obligación internacional"** del Estado argentino de esclarecer la verdad, investigar y sancionar graves violaciones de derechos humanos, y de **"preservar la memoria histórica, los archivos y la evidencia"** de tales violaciones.
+* 
+* **Contexto de la Exhortación:** Se menciona explícitamente la preocupación por **"decisiones políticas que se traducen en la deslegitimación de los procesos de búsqueda de la verdad"**, **"recortes presupuestarios"**, **"desmantelamiento de equipos"**, y el riesgo de que surjan **"tesis revisionistas, relativistas y negacionistas"** que revictimizan a las víctimas. Se citan comunicados de relatores de Naciones Unidas y la CIDH que instan a los Estados a combatir el negacionismo y asegurar la memoria y la no repetición.
+* 
+* **Relevancia de los Legajos de Funcionarios Públicos:** Se destaca que los legajos de funcionarios públicos (incluidas fuerzas militares y policiales) son información base necesaria y no pueden ser sometidos a las mismas reglas de privacidad que la información que se obtiene con medidas intrusivas, instando a asegurar su accesibilidad para las investigaciones.
+
+En resumen, la sentencia revalida y aplica estándares jurisprudenciales consolidados en materia de crímenes de lesa humanidad (imprescriptibilidad, ne bis in idem, valoración de la prueba testimonial, responsabilidad de funcionarios civiles en macro-criminalidad) y, de manera notable, establece un fuerte estándar judicial en la obligación de preservar la prueba y la memoria histórica, en respuesta a un
+
