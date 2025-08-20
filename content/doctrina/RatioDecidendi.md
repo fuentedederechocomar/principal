@@ -4,15 +4,12 @@ date: 2025-08-20
 categories:
   - doctrina
 tags:
-  - derecho
   - jurisprudencia
   - commonlaw
   - precedentevinculante
-  - Goodhart
-  - ratio
-  - dictum
+  - ratio decidendi
+  - obiter dictum
 ---
-## Determinando la Ratio Decidendi de un Caso
 
 **Fuente**: Goodhart, A. L. (1930). Determinando la Ratio Decidendi de un Caso. *Yale Law Journal*, 40(2), 161–183.
 
@@ -80,4 +77,5 @@ Las reglas para encontrar qué hechos son materiales e inmateriales según el ju
 7.  Todos los hechos que el juez declara específicamente como materiales deben considerarse materiales.
 8.  Si la opinión no distingue entre hechos materiales e inmateriales, todos los hechos expuestos deben considerarse materiales.
 9.  Si en un caso hay varias opiniones que coinciden en el resultado pero difieren en los hechos materiales, el principio del caso se limita para ajustarse a la suma de todos los hechos considerados materiales por los diversos jueces.
+
 10. Una conclusión basada en un hecho **hipotético** es un **dictum**. Por hecho hipotético se entiende cualquier hecho cuya existencia no ha sido determinada o aceptada por el juez.
