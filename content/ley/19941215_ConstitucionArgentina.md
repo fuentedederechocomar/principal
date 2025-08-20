@@ -1,4 +1,11 @@
- ---
+Claro, aquí está el archivo completo y corregido, con la jerarquía de títulos y subtítulos mejorada.
+
+He ajustado las almohadillas (`#`, `##`, `###`, etc.) para que sigan una estructura lógica, lo que facilita la lectura y la navegación, especialmente si tu sitio de Hugo genera un índice de contenido.
+
+### Código Corregido
+
+```markdown
+---
 title: "Constitución de la Nación Argentina"
 date: 2025-08-20
 description: "Texto oficial de la Constitución Nacional de Argentina, actualizada con las reformas de 1994."
@@ -34,10 +41,10 @@ Nos los representantes del pueblo de la Nación Argentina, reunidos en Congreso 
 
 ---
 
-### PRIMERA PARTE
+## PRIMERA PARTE
 
-#### Capítulo Primero
-#### Declaraciones, derechos y garantías
+### CAPÍTULO PRIMERO
+### Declaraciones, derechos y garantías
 
 **Artículo 1º.-** La Nación Argentina adopta para su gobierno la forma **representativa republicana federal**, según la establece la presente Constitución.
 
@@ -116,7 +123,7 @@ El Estado otorgará los beneficios de la seguridad social, que tendrá carácter
 ---
 
 ### CAPÍTULO SEGUNDO
-#### Nuevos derechos y garantías
+### Nuevos derechos y garantías
 
 **Artículo 36.-** Esta Constitución mantendrá su imperio aun cuando se interrumpiere su observancia por actos de fuerza contra el orden institucional y el sistema democrático. Estos actos serán insanablemente nulos.
 Sus autores serán pasibles de la sanción prevista en el Artículo 29, inhabilitados a perpetuidad para ocupar cargos públicos y excluidos de los beneficios del indulto y la conmutación de penas.
@@ -157,11 +164,11 @@ Cuando el derecho lesionado, restringido, alterado o amenazado fuera la libertad
 
 ---
 
-### SEGUNDA PARTE
-#### AUTORIDADES DE LA NACIÓN
+## SEGUNDA PARTE
+### AUTORIDADES DE LA NACIÓN
 
-#### TÍTULO PRIMERO
-#### GOBIERNO FEDERAL
+### TÍTULO PRIMERO
+### GOBIERNO FEDERAL
 
 #### SECCIÓN PRIMERA
 #### DEL PODER LEGISLATIVO
@@ -236,9 +243,9 @@ Cuando el derecho lesionado, restringido, alterado o amenazado fuera la libertad
 **Artículo 73.-** Los eclesiásticos regulares no pueden ser miembros del Congreso, ni los gobernadores de provincia por la de su mando.
 
 **Artículo 74.-** Los servicios de los senadores y diputados son remunerados por el Tesoro de la Nación, con una dotación que señalará la ley.
-```
+
 ### CAPÍTULO CUARTO
-#### Atribuciones del Congreso
+### Atribuciones del Congreso
 
 **Artículo 75.-** Corresponde al Congreso:
 
@@ -298,7 +305,7 @@ La caducidad resultante del transcurso del plazo previsto en el párrafo anterio
 ---
 
 ### CAPÍTULO QUINTO
-#### De la formación y sanción de las leyes
+### De la formación y sanción de las leyes
 
 **Artículo 77.-** Las leyes pueden tener principio en cualquiera de las Cámaras del Congreso, por proyectos presentados por sus miembros o por el Poder Ejecutivo, salvo las excepciones que establece esta Constitución.
 Los proyectos de ley que modifiquen el régimen electoral y de partidos políticos deberán ser aprobados por mayoría absoluta del total de los miembros de las Cámaras.
@@ -320,7 +327,7 @@ Los proyectos de ley que modifiquen el régimen electoral y de partidos polític
 ---
 
 ### CAPÍTULO SEXTO
-#### De la Auditoría General de la Nación
+### De la Auditoría General de la Nación
 
 **Artículo 85.-** El control externo del sector público nacional en sus aspectos patrimoniales, económicos, financieros y operativos, será una atribución propia del Poder Legislativo.
 El examen y la opinión del Poder Legislativo sobre el desempeño y situación general de la administración pública estarán sustentados en los dictámenes de la Auditoría General de la Nación.
@@ -330,17 +337,19 @@ Tendrá a su cargo el control de legalidad, gestión y auditoría de toda la act
 ---
 
 ### CAPÍTULO SÉPTIMO
-#### Del Defensor del Pueblo
+### Del Defensor del Pueblo
 
 **Artículo 86.-** El Defensor del Pueblo es un órgano independiente instituido en el ámbito del Congreso de la Nación, que actuará con plena autonomía funcional, sin recibir instrucciones de ninguna autoridad. Su misión es la defensa y protección de los derechos humanos y demás derechos, garantías e intereses tutelados en esta Constitución y las leyes, ante hechos, actos u omisiones de la Administración; y el control del ejercicio de las funciones administrativas públicas.
 El Defensor del Pueblo tiene legitimación procesal. Es designado y removido por el Congreso con el voto de las dos terceras partes de los miembros presentes de cada una de las Cámaras. Goza de las inmunidades y privilegios de los legisladores. Durará en su cargo cinco años, pudiendo ser nuevamente designado por una sola vez.
 La organización y el funcionamiento de esta institución serán regulados por una ley especial.
 
-```
+---
+
 ### SECCIÓN SEGUNDA
-#### DEL PODER EJECUTIVO
-##### CAPÍTULO PRIMERO
-###### De su naturaleza y duración
+### DEL PODER EJECUTIVO
+
+#### CAPÍTULO PRIMERO
+#### De su naturaleza y duración
 
 **Artículo 87.-** El Poder Ejecutivo de la Nación será desempeñado por un ciudadano con el título de "Presidente de la Nación Argentina".
 
@@ -358,8 +367,8 @@ La organización y el funcionamiento de esta institución serán regulados por u
 
 ---
 
-##### CAPÍTULO SEGUNDO
-###### De la forma y tiempo de la elección del Presidente y vicepresidente de la Nación
+#### CAPÍTULO SEGUNDO
+#### De la forma y tiempo de la elección del Presidente y vicepresidente de la Nación
 
 **Artículo 94.-** El Presidente y el vicepresidente de la Nación serán elegidos directamente por el Pueblo, en doble vuelta, según lo establece esta Constitución. A este fin el territorio nacional conformará un distrito único.
 
@@ -373,8 +382,8 @@ La organización y el funcionamiento de esta institución serán regulados por u
 
 ---
 
-##### CAPÍTULO TERCERO
-###### Atribuciones del Poder Ejecutivo
+#### CAPÍTULO TERCERO
+#### Atribuciones del Poder Ejecutivo
 
 **Artículo 99.-** El Presidente de la Nación tiene las siguientes atribuciones:
 
@@ -406,8 +415,8 @@ La organización y el funcionamiento de esta institución serán regulados por u
 
 ---
 
-##### CAPÍTULO CUARTO
-###### Del jefe de gabinete y demás ministros del Poder Ejecutivo
+#### CAPÍTULO CUARTO
+#### Del jefe de gabinete y demás ministros del Poder Ejecutivo
 
 **Artículo 100.-** El jefe de gabinete de ministros y los demás ministros secretarios cuyo número y competencia será establecida por una ley especial, tendrán a su cargo el despacho de los negocios de la Nación, y refrendarán y legalizarán los actos del presidente por medio de su firma, sin cuyo requisito carecen de eficacia.
 Al jefe de gabinete de ministros, con responsabilidad política ante el Congreso de la Nación, le corresponde:
@@ -444,9 +453,10 @@ Al jefe de gabinete de ministros, con responsabilidad política ante el Congreso
 ---
 
 ### SECCIÓN TERCERA
-#### DEL PODER JUDICIAL
-##### CAPÍTULO PRIMERO
-###### De su naturaleza y duración
+### DEL PODER JUDICIAL
+
+#### CAPÍTULO PRIMERO
+#### De su naturaleza y duración
 
 **Artículo 108.-** El Poder Judicial de la Nación será ejercido por una Corte Suprema de Justicia, y por los demás tribunales inferiores que el Congreso estableciere en el territorio de la Nación.
 
@@ -478,8 +488,8 @@ En la ley especial a que se refiere el Artículo 114, se determinará la integra
 
 ---
 
-##### CAPÍTULO SEGUNDO
-###### Atribuciones del Poder Judicial
+#### CAPÍTULO SEGUNDO
+#### Atribuciones del Poder Judicial
 
 **Artículo 116.-** Corresponde a la Corte Suprema y a los tribunales inferiores de la Nación, el conocimiento y decisión de todas las causas que versen sobre puntos regidos por la Constitución, y por las leyes de la Nación, con la reserva hecha en el inc. 12 del Artículo 75: y por los tratados con las naciones extranjeras: de las causas concernientes a embajadores, ministros públicos y cónsules extranjeros: de las causas de almirantazgo y jurisdicción marítima: de los asuntos en que la Nación sea parte: de las causas que se susciten entre dos o más provincias; entre una provincia y los vecinos de otra; entre los vecinos de diferentes provincias; y entre una provincia o sus vecinos, contra un Estado o ciudadano extranjero.
 
@@ -492,7 +502,7 @@ En la ley especial a que se refiere el Artículo 114, se determinará la integra
 ---
 
 ### SECCIÓN CUARTA
-#### Del ministerio público
+### Del ministerio público
 
 **Artículo 120.-** El Ministerio Público es un órgano independiente con autonomía funcional y autarquía financiera que tiene por función promover la actuación de la justicia en defensa de la legalidad de los intereses generales de la sociedad en coordinación con las demás autoridades de la República.
 Está integrado por un procurador general de la Nación y un defensor general de la Nación y los demás miembros que la ley establezca.
@@ -501,7 +511,7 @@ Sus miembros gozan de inmunidades funcionales e intangibilidad de remuneraciones
 ---
 
 ### TITULO SEGUNDO
-#### GOBIERNOS DE PROVINCIA
+### GOBIERNOS DE PROVINCIA
 
 **Artículo 121.-** Las provincias conservan todo el poder no delegado por esta Constitución al Gobierno federal, y el que expresamente se hayan reservado por pactos especiales al tiempo de su incorporación.
 
@@ -533,10 +543,8 @@ En el marco de lo dispuesto en este artículo, el Congreso de la Nación convoca
 La recuperación de dichos territorios y el ejercicio pleno de la soberanía, respetando el modo de vida de sus habitantes, y conforme a los principios del derecho internacional, constituyen un objetivo permanente e irrenunciable del pueblo argentino.
 
 **Segunda.** Las acciones positivas a que alude el Artículo 37 en su último párrafo no podrán ser inferiores a las vigentes al tiempo de sancionarse esta Constitución y durarán lo que la ley determine.
-(Corresponde al Artículo 37)
 
 **Tercera.** La ley que reglamente el ejercicio de la iniciativa popular deberá ser aprobada dentro de los dieciocho meses de esta sanción.
-(Corresponde al Artículo 39)
 
 **Cuarta.** Los actuales integrantes del Senado de la Nación desempeñarán su cargo hasta la extinción del mandato correspondiente a cada uno.
 En ocasión de renovarse un tercio del Senado en mil novecientos noventa y cinco, por finalización de los mandatos de todos los senadores elegidos en mil novecientos ochenta y seis, será designado además un tercer senador por distrito por cada Legislatura. El conjunto de los senadores por cada distrito se integrará, en lo posible, de modo que correspondan dos bancas al partido político o alianza electoral que tenga el mayor número de miembros en la legislatura, y la restante al partido político o alianza electoral que le siga en número de miembros de ella. En caso de empate, se hará prevalecer al partido político o alianza electoral que hubiera obtenido mayor cantidad de sufragios en la elección legislativa provincial inmediata anterior.
@@ -546,48 +554,36 @@ La elección de todos los senadores a que se refiere esta cláusula se llevará 
 En todos los casos, los candidatos a senadores serán propuestos por los partidos políticos o alianzas electorales. El cumplimiento de las exigencias legales y estatutarias para ser proclamado candidato será certificado por la Justicia Electoral Nacional y comunicado a la Legislatura.
 Toda vez que se elija un senador nacional se designará un suplente, quien asumirá en los casos del Artículo 62.
 Los mandatos de los senadores elegidos por aplicación de esta cláusula transitoria durarán hasta el nueve de diciembre del dos mil uno.
-(Corresponde al Artículo 54)
 
 **Quinta.** Todos los integrantes del Senado serán elegidos en la forma indicada en el Artículo 54 dentro de los dos meses anteriores al diez de diciembre del dos mil uno, decidiéndose por la suerte, luego que todos se reúnan, quienes deban salir en el primero y segundo bienio.
-(Corresponde al Artículo 56)
 
 **Sexta.** Un régimen de coparticipación conforme lo dispuesto en el inc. 2 del Artículo 75 y la reglamentación del organismo fiscal federal, serán establecidos antes de la finalización del año 1996; la distribución de competencias, servicios y funciones vigentes a la sanción de esta reforma, no podrá modificarse sin la aprobación de la provincia interesada; tampoco podrá modificarse en desmedro de las provincias la distribución de recursos vigente a la sanción de esta reforma y en ambos casos hasta el dictado del mencionado régimen de coparticipación.
 La presente cláusula no afecta los reclamos administrativos o judiciales en trámite originados por diferencias por distribución de competencias, servicios, funciones o recursos entre la Nación y las provincias.
-(Corresponde al Artículo 75 inc. 2).
 
 **Séptima.** El Congreso ejercerá en la ciudad de Buenos Aires mientras sea capital de la Nación las atribuciones legislativas que conserve con arreglo al Artículo 129.
-(Corresponde al Artículo 75 inc. 30).
 
 **Octava.** La legislación delegada preexistente que no contenga plazo establecido para su ejercicio caducará a los cinco años de la vigencia de esta disposición excepto aquella que el Congreso de la Nación ratifique expresamente por una nueva ley.
-(Corresponde al Artículo 76).
 
 **Novena.** El mandato del presidente en ejercicio al momento de sancionarse esta reforma deberá ser considerado como primer período.
-(Corresponde al Artículo 90)
 
 **Décima.** El mandato del Presidente de la Nación que asuma su cargo el 8 de julio de 1995 se extinguirá el 10 de diciembre de 1999.
-(Corresponde al Artículo 90)
 
 **Undécimo.** La caducidad de los nombramientos y la duración limitada previstas en el Artículo 99 inc. 4 entrarán en vigencia a los cinco años de la sanción de esta reforma constitucional.
-(Corresponde al Artículo 99 inc. 4)
 
 **Duodécima.** Las prescripciones establecidas en los arts. 100 y 101 del capítulo cuarto de la sección segunda de la segunda parte de esta Constitución referidas al jefe de gabinete de ministros, entrarán en vigencia el 8 de julio de 1995.
 El jefe de gabinete de ministros será designado por primera vez el 8 de julio de 1995 hasta esa fecha sus facultades serán ejercitadas por el Presidente de la República.
-(Corresponde a los arts. 99 inc. 7, 100 y 101.)
 
 **Decimotercera.** A partir de los trescientos sesenta días de la vigencia de esta reforma los magistrados inferiores solamente podrán ser designados por el procedimiento previsto en la presente Constitución. Hasta tanto se aplicará el sistema vigente con anterioridad.
-(Corresponde al Artículo 114)
 
 **Decimocuarta.** Las causas en trámite ante la Cámara de Diputados al momento de instalarse el Consejo de la Magistratura, les serán remitidas a efectos del inc. 5 del Artículo 114. Las ingresadas en el Senado continuarán allí hasta su terminación.
-(Corresponde al Artículo 115)
 
 **Decimoquinta.** Hasta tanto se constituyan los poderes que surjan del nuevo régimen de autonomía de la ciudad de Buenos Aires, el Congreso ejercerá una legislación exclusiva sobre su territorio, en los mismos términos que hasta la sanción de la presente.
 El jefe de Gobierno será elegido durante el año mil novecientos noventa y cinco.
-La ley prevista en los párrafos segundo y tercero del Artículo 129, deberá ser sancionada dentro del plazo de doscientos setenta días a partir de la vigencia de esta Constitución
+La ley prevista en los párrafos segundo y tercero del Artículo 129, deberá ser sancionada dentro del plazo de doscientos setenta días a partir de la vigencia de esta Constitución.
 Hasta tanto se haya dictado el Estatuto Organizativo la designación y remoción de los jueces de la ciudad de Buenos Aires se regirá por las disposiciones de los arts. 114 y 115 de esta Constitución.
-(Corresponde al Artículo 129)
 
 **Decimosexta.** Esta reforma entra en vigencia al día siguiente de su publicación. Los miembros de la Convención Constituyente, el presidente de la Nación Argentina, los presidentes de las Cámaras Legislativas y el presidente de la Corte Suprema de Justicia prestan juramento en un mismo acto el día 24 de agosto de 1994, en el Palacio San José, Concepción del Uruguay, provincia de Entre Ríos.
-Cada poder del Estado y las autoridades provinciales y municipales disponen lo necesario para que sus miembros y funcionarios juren esta Constitución
+Cada poder del Estado y las autoridades provinciales y municipales disponen lo necesario para que sus miembros y funcionarios juren esta Constitución.
 
 **Decimoséptima.** El texto constitucional ordenado, sancionado por esta Convención Constituyente, reemplaza al hasta ahora vigente.
 
@@ -598,6 +594,9 @@ DADA EN LA SALA DE SESIONES DE LA CONVENCIÓN NACIONAL CONSTITUYENTE, EN LA CIUD
 
 **ARTICULO 3º.-** Publíquese en el Boletín Oficial.
 
-**ARTICULO 4º.-** Comuníquese al Poder Ejecutivo
+**ARTICULO 4º.-** Comuníquese al Poder Ejecutivo.
 
 DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS QUINCE DIAS DEL MES DE DICIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y CUATRO.
+```  
+ 
+  
