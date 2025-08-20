@@ -1,26 +1,15 @@
-Claro, aquí está el archivo completo y corregido, con la jerarquía de títulos y subtítulos mejorada.
-
-He ajustado las almohadillas (`#`, `##`, `###`, etc.) para que sigan una estructura lógica, lo que facilita la lectura y la navegación, especialmente si tu sitio de Hugo genera un índice de contenido.
-
-### Código Corregido
-
-```markdown
 ---
 title: "Constitución de la Nación Argentina"
-date: 2025-08-20
+date: 1994-12-15
 description: "Texto oficial de la Constitución Nacional de Argentina, actualizada con las reformas de 1994."
 categories: ley
 tags:
   - constitución
   - argentina
   - ley
-  - política
-  - derecho
   - reforma
 draft: false
 ---
-
-# Constitución de la Nación Argentina
 
 **Ley Nº 24.430**
 
@@ -600,3 +589,4 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS QUINC
 ```  
  
   
+
