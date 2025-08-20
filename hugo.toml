@@ -1,6 +1,6 @@
 baseURL = 'https://www.fuentederecho.com.ar/'
 languageCode = 'es-ar'
-title = 'Fuente de Derecho'
+title = '§ Fuente de Derecho'
 
 [menu]
   [[menu.main]]
@@ -10,22 +10,22 @@ title = 'Fuente de Derecho'
       type = "search"
   [[menu.main]]
     identifier = "Ley"
-    name = "Ley"
+    name = "§ Ley"
     url = "/ley/"
     weight = 1
   [[menu.main]]
     identifier = "Jurisprudencia"
-    name = "Jurisprudencia"
+    name = "§ Jurisprudencia"
     url = "/jurisprudencia/"
     weight = 2
   [[menu.main]]
     identifier = "Doctrina"
-    name = "Doctrina"
+    name = "§ Doctrina"
     url = "/doctrina/"
     weight = 3
   [[menu.main]]
     identifier = "Novedades"
-    name = "Novedades"
+    name = "§ Novedades"
     url = "/novedades/"
     weight = 4
   [[menu.main]]
@@ -47,4 +47,4 @@ title = 'Fuente de Derecho'
 
 [module]
   [[module.imports]]
-    path = "github.com/imfing/hextra" 
+    path = "github.com/imfing/hextra"
