@@ -1,10 +1,8 @@
 ---
 title: "Determinando la Ratio Decidendi de un Caso"
 date: 2025-08-20
-categories:
-  - doctrina
+categoría: ["Filosofía Del Derecho"]
 tags:
-  - jurisprudencia
   - commonlaw
   - precedentevinculante
   - ratio decidendi
@@ -79,3 +77,4 @@ Las reglas para encontrar qué hechos son materiales e inmateriales según el ju
 9.  Si en un caso hay varias opiniones que coinciden en el resultado pero difieren en los hechos materiales, el principio del caso se limita para ajustarse a la suma de todos los hechos considerados materiales por los diversos jueces.
 
 10. Una conclusión basada en un hecho **hipotético** es un **dictum**. Por hecho hipotético se entiende cualquier hecho cuya existencia no ha sido determinada o aceptada por el juez.
+
