@@ -2,7 +2,8 @@
 title: "Smart, Jaime Lamont y otro s/ recurso de casación"
 date: "2025-07-01"
 author: "Sala II de la Cámara Federal de Casación Penal"
-tags: ["crímenes de lesa humanidad", "genocidio", "casación penal", "Argentina", "dictadura militar", "Jaime Smart", "Juan Keller"]
+categoría: ["Derecho Penal", "Derechos Humanos"]
+tags: ["crímenes de lesa humanidad", "genocidio", "casación penal", "Argentina", "dictadura cívico militar"]
 ---
 
 Reseñamos a cotinuación la  **resolución de la Sala II de la Cámara Federal de Casación Penal**, que con fecha del **1 de julio de 2025**, en el marco del recurso de casación interpuesto por la defensa de **Jaime Lamont Smart** y **Juan Humberto Keller** contra el pronunciamiento del del Tribunal Oral en lo Criminal Federal N°1 de La Plata, que el **22 de febrero de 2024**, había condenado a ambos a **prisión perpetua por crímenes de lesa humanidad** cometidos en el marco del genocidio perpetrado en Argentina entre 1976 y 1983.
