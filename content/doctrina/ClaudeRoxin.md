@@ -6,7 +6,7 @@ draft: false
 weight: 10
 description: "Una síntesis de las teorías de Claus Roxin sobre la 'autoría mediata en virtud de aparatos organizados de poder' y su relevancia en el derecho penal, especialmente en casos de crímenes de Estado como el Juicio a las Juntas en Argentina."
 tags: ["Claus Roxin", "Derecho Penal", "Doctrina Roxin", "Autoría Mediata", "Teoría del Delito", "Imputación Objetiva", "Crímenes de Lesa Humanidad"]
-categories: ["Doctrina Claus Roxin"]
+categoría: ["Derecho Penal"]
 ---
 
 
