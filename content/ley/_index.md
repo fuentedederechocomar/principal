@@ -1,5 +1,5 @@
 ---
 title: "Ley"
-description: "Normativa aplicable y comentarios."
+description: "Normas en sentido general"
 weight: 30
 ---
