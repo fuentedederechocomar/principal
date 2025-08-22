@@ -5,8 +5,8 @@ draft: false
 description: "Reseña del artículo de Wynne Muscatine Graham que desafía la narrativa histórica de la deferencia judicial, revelando un sistema expansivo de supervisión sobre las prisiones en los primeros años de Estados Unidos."
 autor: "Wynne Muscatine Graham"
 fuente: "138 Harv. L. Rev. 1715 (2025)"
-categories: ["Doctrina"]
-tags: ["Derecho Penitenciario", "Historia del Derecho", "Supervisión Judicial", "Deferencia Judicial", "Condiciones Carcelarias", "Originalismo"]
+Categoría: [Derecho Procesal Penal]
+tags: ["Derecho Penitenciario", "Historia del Derecho", "Supervisión Judicial", "Deferencia Judicial", "Condiciones Carcelarias", "Originalismo", "Ejecución del la Pena"]
 ---
 
 Fuente: 138 Harv. L. Rev. 1715 Volume 138, Issue 07, May 2025 pp 1715-1768
