@@ -4,8 +4,8 @@ subtitle: "Análisis del fallo que reabrió los juicios por crímenes de lesa hu
 date: 2025-08-18T18:30:00-03:00
 lastmod: 2025-08-18T18:30:00-03:00
 draft: false
-tags: ["CSJN", "derechos humanos", "lesa humanidad", "Punto Final", "Obediencia Debida", "Simón"]
-categories: ["Jurisprudencia", "Memoria, Verdad y Justicia"]
+tags: ["lesa humanidad", "Punto Final", "Obediencia Debida", "Simón"]
+categoría: ["Derecho Penal", "Derechos Humanos"]
 description: "Un análisis del fallo histórico de la Corte Suprema que declaró nulas las leyes de impunidad y reabrió los juicios por crímenes de la dictadura militar, reafirmando la jerarquía constitucional de los tratados internacionales."
 images: []
 ---
