@@ -2,8 +2,7 @@
 ---
 title: "El Concepto de Precedente en el Derecho"
 date: 2025-08-20
-categories:
-  - doctrina
+categoría: ["Filosofía del Derecho"
 tags:
   - precedente
   - staredecisis
@@ -56,5 +55,6 @@ La virtud del precedente es más elusiva cuando obliga a un juez a tomar una dec
 -   **Precedente Horizontal (Stare Decisis)**: El **stare decisis** es más complejo y ha sido objeto de críticas históricas por obligar a los jueces a seguir decisiones que consideran erróneas, "sin razón, con la exclusión declarada de la razón, y por lo tanto en oposición a la razón" (Bentham). A pesar de estas críticas, el **stare decisis** se ha defendido por sus virtudes en la **estabilidad, la fiabilidad y la previsibilidad**. La famosa observación del Juez Louis Brandeis, "en la mayoría de los asuntos es más importante que [la cuestión] se resuelva a que se resuelva correctamente" (*Burnet v. Coronado Oil & Gas. Co.*, 1932), subraya que la capacidad de confiar en un estado de cosas o una decisión es a menudo más importante que la búsqueda de la decisión "correcta" en cada ocasión.
 
 ### VI. Precedente y Realismo Jurídico
+
 
 El **Realismo Jurídico** desafía la noción de que las reglas y el razonamiento legal son las causas principales de las decisiones judiciales. Los realistas argumentaban que los jueces, especialmente en los casos difíciles, primero determinan el resultado deseado basándose en preferencias personales o consideraciones políticas, y luego "solo entonces reunirán las autoridades legales para apoyar un resultado alcanzado por motivos distintos a los que podrían haber sido dictados por las autoridades." (Schauer, 1987, p. 583). Para los realistas, los precedentes sirven como **racionalizaciones ex post** (justificaciones) y no como causas genuinas o restricciones de las decisiones judiciales. Si bien los realistas de los años 30 y 40 usaban anécdotas, la investigación contemporánea ha proporcionado "considerable apoyo a las afirmaciones realistas sobre los efectos del derecho formal en general y el precedente en particular" (Schauer, 1987, p. 584). La cuestión de si la obligación internalizada del precedente tiene un efecto causal es, en última instancia, una "pregunta empírica cuya respuesta probablemente variará entre jurisdicciones, a lo largo del tiempo, entre tribunales e incluso entre jueces individuales." (Schauer, 1987, p. 585).
