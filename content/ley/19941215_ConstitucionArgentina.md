@@ -2,7 +2,7 @@
 title: "Constitución de la Nación Argentina"
 date: 1994-12-15
 description: "Texto oficial de la Constitución Nacional de Argentina, actualizada con las reformas de 1994."
-categories: ley
+categoría: ["Derecho Constitucional"]
 tags:
   - constitución
   - argentina
@@ -589,4 +589,5 @@ DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS QUINC
 ```  
  
   
+
 
