@@ -4,7 +4,7 @@ subtitle: "Análisis del caso 'Mazzeo, Julio Lilo y otros' (CSJN, 13 de julio de
 date: 2024-08-18T18:30:00-03:00
 lastmod: 2024-08-18T18:30:00-03:00
 draft: false
-tags: ["CSJN", "derecho constitucional", "derechos humanos", "lesa humanidad", "indulto", "Mazzeo"]
+tags: ["lesa humanidad", "indulto", "Mazzeo"]
 categoría: ["Derecho Penal", "Derechos Humanos"]
 description: "Análisis del fallo 'Mazzeo' de la Corte Suprema, que declaró la inconstitucionalidad del indulto para crímenes de lesa humanidad, priorizando el derecho internacional sobre la cosa juzgada."
 images: []
