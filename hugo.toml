@@ -41,7 +41,7 @@ title = '§ Fuente de Derecho'
     enable = true
 
 [taxonomies]
-  categoría = "categories"
+  categoria = "categories"
   tag = "tags"
   author = "authors"
 
