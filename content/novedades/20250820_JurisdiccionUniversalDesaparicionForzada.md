@@ -1,5 +1,5 @@
 ---
-title: "JURISDICCIÓN PENAL UNIVERSAL EN CASOS DE DESAPARICIÓN FORZADA"
+title: "Jurisdicción Penal Universal en casos de Ejecución Forzada"
 description: "Informe del Grupo de Trabajo de la ONU sobre la aplicación y los desafíos de la jurisdicción penal universal para asegurar la rendición de cuentas por el delito de desaparición forzada."
 date: "2025-08-20"
 draft: false
@@ -9,11 +9,9 @@ tags: ["Argentina", "Francia", "Alemania", "Suiza", "Bélgica", "España", "Caso
 author: "Grupo de Trabajo sobre las Desapariciones Forzadas o Involuntarias"
 ---
 
-**JURISDICCIÓN PENAL UNIVERSAL EN CASOSDE DESAPARICIÓN FORZADA**
-
 **Fecha:** 20 de agosto de 2025
 
-**Fuente:** Documento de salade conferencias del Consejo de Derechos Humanos A/HRC/60/CRP.2, “Jurisdicciónpenal universal en casos de desaparición forzada” del Grupo de Trabajo sobrelas Desapariciones Forzadas o Involuntarias.
+**Fuente:** Documento de sala de conferencias del Consejo de Derechos Humanos A/HRC/60/CRP.2, “Jurisdicción penal universal en casos de desaparición forzada” del Grupo de Trabajo sobrelas Desapariciones Forzadas o Involuntarias.
 
  I. RESUMEN EJECUTIVO
 El informe del Grupo de Trabajo sobre las Desapariciones Forzadas o Involuntarias (en adelante, “el Grupo de Trabajo”) que aquí presentamos en traducción resumida, examina la aplicación de la jurisdicción penal universal a la desaparición forzada, destacando su importancia crucial para promover la rendición de cuentas por crímenes bajo el derecho internacional y ofrecer una respuesta centrada en las víctimas. El estudio desafía la noción de que solo los Estados parte en ciertos tratados están obligados a aplicar la jurisdicción universal, enfatizando el carácter de jus cogens de la prohibición de la desaparición forzada, lo que impone obligaciones a todos los Estados para asegurar que tales violaciones no queden impunes.
