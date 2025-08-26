@@ -9,7 +9,7 @@ topics: ["Fuerzas Armadas", "Delitos de lesa humanidad", "Debida diligencia", "G
 author: "Corte Interamericana de Derechos Humanos (Corte IDH)"
 link: "https://www.corteidh.or.cr/docs/casos/articulos/seriec\_75\_esp.pdf"
 ---
-![Sigue Jurisprudencia](https://img.shields.io/badge/Enfoque-Jurisprudencia-blue)
+![Sigue Jurisprudencia](https://img.shields.io/badge/Sección-Jurisprudencia-blue)
 ## Fecha: 14 de marzo de 2001
 
 ### I. Introducción y Contexto del Caso
