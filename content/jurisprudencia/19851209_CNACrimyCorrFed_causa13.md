@@ -34,6 +34,7 @@ Firmante:
 Jurisdicción: Argentina
 Summary: El fallo de la Cámara Nacional de Apelaciones en lo Criminal y Correccional Federal condenó a los miembros de las Juntas Militares por delitos de lesa humanidad. La sentencia probó la existencia de un sistema de represión ilegal, con centros clandestinos de detención, torturas y desapariciones forzadas, y sentó el precedente de la autoría mediata de los altos mandos, rechazando las justificaciones de estado de necesidad y obediencia debida.
 ---
+![Sigue Jurisprudencia](https://img.shields.io/badge/Sección-Jurisprudencia-blue)
 
 Fecha:  9 de diciembre de 1985  
 Órgano: Cámara Nacional de Apelaciones en lo Criminal y Correccional Federal de la Capital Federal
@@ -52,7 +53,7 @@ El gobierno constitucional, previo al golpe de 1976, emitió decretos como el 26
 
 Los procesados, en sus declaraciones indagatorias, generalmente negaron o minimizaron su responsabilidad directa en los delitos específicos, atribuyendo las acciones a una guerra contra la subversión ordenada por el poder político y actuando en legítima defensa de la Nación.
 
-* ## Jorge Rafael Videla: 
+## Jorge Rafael Videla: 
 
 
 * "asumía toda la responsabilidad como Comandante en la guerra librada contra la subversión y ordenada por el poder político, en ejercicio del derecho de legítima defensa de la Nación". Sostuvo que no se justificaban torturas, privaciones ilegales de libertad y homicidios, y que, si ocurrieron, fueron derivados a la justicia ordinaria o militar. Negó los delitos imputados en el decreto 158/83.  
@@ -138,25 +139,25 @@ El Tribunal rechazó los argumentos de las defensas y, basándose en una vasta c
 * Las operaciones ilegales contaban frecuentemente con "un aviso previo a la autoridad de la zona en que se producían", para evitar interferencias policiales. Los secuestradores "pedían zona libre" lo que significaba que "se le avisaba a la Policía que no interfiriera en operaciones que se llevaban a cabo en esa área".  
  
 
-### *** Horario y Lugar:***
+### Horario y Lugar:
 
    
 * Los secuestros ocurrían "durante la noche, en los domicilios de las víctimas" (66% nocturnos vs. 34% diurnos).  
  
 
-### *** Saqueo de Bienes:***
+### Saqueo de Bienes:
 
    
 * Los procedimientos eran "acompañados en muchos casos por el saqueo de los bienes de la vivienda". Los objetos robados, que incluían "alhajas, dinero, cubiertos de plata", e incluso "muebles, la heladera, las cortinas", a veces se repartían entre los captores o se usaban en los centros de detención.  
  
 
-### *** Ocultamiento de las Víctimas:***
+### Ocultamiento de las Víctimas:
 
   
 * Las víctimas eran introducidas en vehículos, "impidiéndosele ver o comunicarse, y adoptándose medidas para ocultarlas a la vista del público" (vendadas, encapuchadas, acostadas en el piso o baúles de autos).  
  
 
-### *** Centros Clandestinos de Detención:*** 
+### Centros Clandestinos de Detención:
 
    
 * Se probó la existencia de numerosos centros clandestinos de detención en todo el país, operados por el Ejército, la Armada y las Policías Provinciales.  
@@ -164,52 +165,52 @@ El Tribunal rechazó los argumentos de las defensas y, basándose en una vasta c
 * Ejemplos incluyen:  
  
 
-### ***Ejército:*** 
+### Ejército: 
 
    
 * "La Perla" (Córdoba), "La Ribera" (Córdoba), "Batallón de Comunicaciones n° 121" (Rosario), "Compañía de Arsenales Miguel de Azcuenaga" (Tucumán), "El Campito" o "Los Tordos" (Campo de Mayo), "El Vesubio" (Buenos Aires), "Puente 12" (Buenos Aires).  
  
 
-#### *** Armada:*** 
+#### Armada: 
 
    
 * "ESMA" (Escuela de Mecánica de la Armada), "Base Naval Mar del Plata".  
 * Fuerza Aérea: "Mansión Seré" o "Atila" (Buenos Aires), "Base Aérea Militar Mar del Plata".  
  
 
-#### *** Policías Provinciales:***
+#### Policías Provinciales:
 
    
 * "Jefatura de Policía de Rosario" (Santa Fe), "Jefatura de Policía de Tucumán", "C.O.T.I Martínez" (Martínez), "Pozo de Quilmes", "Pozo de Banfield", "Brigada de Investigaciones de La Plata", "Arana", "Brigada de Investigaciones de Las Flores", "Puesto Vasco" (Banfield).  
  
 
-### ***Tormentos y Condiciones Inhumanas:***
+### Tormentos y Condiciones Inhumanas:
 
    
 * En "casi la totalidad de los casos" los secuestrados fueron "interrogados bajo tormentos a través de métodos de tortura similares". No existe constancia de algún centro donde no se aplicaran torturas. Las víctimas eran sometidas a "condiciones inhumanas de vida", incluyendo "déficit casi total de alimentación, el alojamiento en lugares insalubres", y "permanente anuncio... de que se encontraban absolutamente desprotegidos y exclusivamente a merced de sus secuestradores". El testimonio de Gladis Evarista Cuervo detalla picanas eléctricas, "submarino" y quemaduras con cigarrillos. Algunos familiares presenciaron o escucharon las torturas de sus seres queridos.  
  
-### ***Destino de las Víctimas:***
+### Destino de las Víctimas:
 
  
- #### *** Liberación:*** 
+ #### Liberación: 
 
    
 * Algunas fueron liberadas, con la condición de no revelar lo sucedido y bajo vigilancia.  
  
 
-#### *** Legalización:*** 
+#### Legalización: 
 
    
 * Otras fueron "sometidas a proceso o puestas a disposición del Poder Ejecutivo Nacional, ocultándose el período de cautiverio". Las fechas de detención real eran anteriores a las de los decretos.  
  
 
-#### ***Eliminación Física:***
+#### Eliminación Física:
 
    
 * Las que no fueron liberadas ni legalizadas fueron "eliminados físicamente". Esto se infiere por el hallazgo de "un llamativo número de cadáveres" en costas y ríos (algunos atados de pies y manos, con lesiones y fracturas), inhumaciones clandestinas de cuerpos NN en cementerios (sin ataúdes, en fosas comunes, a menudo traídos por personal militar o policial y jóvenes), y "traslados masivos de secuestrados de quienes no volvió a tenerse noticias", a veces precedidos de drogas sedantes, sugiriendo los "vuelos de la muerte". El ex General Suárez Mason habría señalado que "más de 8000" cuerpos fueron arrojados al río.  
  
 
-### ***Encubrimiento y Negación Oficial:***
+### Encubrimiento y Negación Oficial:
 
    
 * El gobierno militar "trató de evitar la publicación por la prensa de toda noticia relativa a desapariciones de personas, hallazgos de cadáveres o a la existencia de las gestiones".   
@@ -304,3 +305,4 @@ Conclusión del Tribunal:
 Los delitos fueron "*cometidos... en virtud de las órdenes por ellos impartidas". Se "desecharon las causas de justificación alegadas por las defensas, puesto que sin desconocer la necesidad de reprimir y combatir a las bandas terroristas, tal represión y combate nunca debió evadirse del marco de la ley*". Los ex-comandantes "*fueron encontrados penalmente responsables por los hechos que subordinados suyos, cumpliendo tales órdenes, llevaron a cabo con relevancia delictual*".
 
 La sentencia destaca la magnitud y sistematicidad de los crímenes, el esfuerzo de ocultamiento y la negación, y la responsabilidad de los altos mandos, concluyendo que "*el derecho es un orden dispuesto para evitar el caos, que no es un simple desorden, sino que constituye el imperio de la fuerza al margen de toda razón.*" El Tribunal enfatizó que "*no es posible aceptar que el fin justifique los medios ni que todos ellos sean lícitos*," y que el triunfo de las armas no implicó el triunfo del derecho o la civilización. "*Es por dejarle a la sociedad argentina menoscabados, hasta lo más hondo, aquellos valores que pertenecen a su cultura, a sus tradiciones, a su modo de ser, y que eran, precisamente por los que se combatía*."  
+ 
