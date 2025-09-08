@@ -28,11 +28,11 @@ title = '§ Fuente de Derecho'
     name = "§ Novedades"
     url = "/novedades/"
     weight = 4
-  [[menu.main]]
-    identifier = "Etiquetas"
-    name = "Etiquetas"
-    pageRef = "tags"
-    weight = 5
+  [[menu.main]]                               # Este seria un cambio a hacer  8/9/2025
+    identifier = "Etiquetas"                  # Este seria un cambio a hacer  8/9/2025
+    name = "Etiquetas"                        # Este seria un cambio a hacer  8/9/2025
+    pageRef = "tags"                          # Este seria un cambio a hacer  8/9/2025  
+    weight = 5                                # Este seria un cambio a hacer  8/9/2025
 
 [params]
   description = "Tu descripción del sitio"
