@@ -37,7 +37,7 @@ jobs:
         run: hugo --minify
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4 # antes v3 8/9/2025
         with:
           path: ./public
 
