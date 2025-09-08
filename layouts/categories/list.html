@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="h-entry">
+  <header>
+    <h1 class="p-name">{{ .Title }}</h1>
+  </header>
+
+  <div class="e-content">
+    <p>Artículos en {{ .Title | lower }}</p>
+    
+    {{ range .Pages }}
+    <div class="list-item">
+      <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+      <div class="meta">{{ .Date.Format "2006-01-02" }}</div>
+      <div class="summary">{{ .Summary }}</div>
+    </div>
+    {{ end }}
+  </div>
+</article>
+{{ end }}
